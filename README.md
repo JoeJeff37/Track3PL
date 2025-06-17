@@ -153,4 +153,5 @@
 
 ### Public ip address 3.252.124.53
 
-![Landing Page Screenshot](/img/"landing-page-website.png")
+![Landing Page Screenshot](/img/landing-page-website.png)
+
